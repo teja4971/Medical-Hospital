@@ -1,5 +1,9 @@
 # Medical-Hospital
 
+This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft , Future Skills Prime , Quess, Github and EY.
+
+**Project link:** https://teja4971.github.io/Medical-Hospital/
+**Demo video link:** https://www.youtube.com/watch?v=KkjAcz7UEhU
 
 **Screenshots**
 
